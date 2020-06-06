@@ -1,1 +1,3 @@
-Title: Anything About IT
+---
+Layout: home
+---
